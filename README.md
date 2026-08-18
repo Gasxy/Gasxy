@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Gasxy">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontFamily=Arial%20Black&fontColor=ffffff&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Garry" alt="Hello! I'm Garry" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontFamily=Arial&fontColor=ffffff&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Garry" alt="Hello! I'm Garry" />
   </a>
 </p>
 
